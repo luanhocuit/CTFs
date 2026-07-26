@@ -81,5 +81,5 @@ io.interactive()
 → **Note:** This snippet only demonstrates the core exploit logic. You need to write the complete script yourself to make it run (or use a `pwn` template like I did:33).
 
 **🎯 PROOF OF CONCEPT:**
-Execute the script. The payload successfully triggers the off-by-one vulnerability, modifying the age variable to 0, which grants shell access. Finally, run the `cat flag` command to read the flag:
+Execute the script. The payload successfully triggers the off-by-one vulnerability, modify the age variable to 0, which grants shell access. Finally, run the `cat flag` command to read the flag:
 ![Screenshot](./off_by_one_001.png)
