@@ -59,4 +59,4 @@ io.interactive()
 
 **🎯 PROOF OF CONCEPT:**
 Execute the script. The payload successfully bypasses the check and grants shell access. Finally, run the `cat flag` command to read the flag:
-![Screenshot](./Screenshot\ 2026-07-26\ 005703.png)
+![Screenshot](./cmd_center.png)
