@@ -1,0 +1,28 @@
+# Debug files
+.gdb_history
+*.gdbhistory
+core
+core.*
+*.dump
+
+# Binary/compiled files
+*.o
+*.so
+*.elf
+a.out
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*~
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# OS
+.DS_Store
+Thumbs.db
