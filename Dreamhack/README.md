@@ -1,6 +1,8 @@
-# Dreamhack.io - Platform from Korean
+# 🇰🇷 Dreamhack.io 
 
-This is the website for anyone interested in cybersecurity to learn and do CTF challenges.
+**Dreamhack** is a premier South Korean cybersecurity platform designed for enthusiasts to learn, practice, and compete in Capture The Flag (CTF) challenges. 
 
 ---
->> This folder contains all writeup of the challenge that I have solved <<
+
+> 📂 **About This Directory**
+> This folder serves as my personal archive. It contains all the detailed writeups, exploit scripts, and step-by-step solutions for the Dreamhack challenges I have successfully solved. 🚀
