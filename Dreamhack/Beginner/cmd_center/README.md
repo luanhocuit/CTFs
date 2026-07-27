@@ -1,6 +1,7 @@
 # 🚩 Beginner - cmd_center
 
 **Category:** Pwnable
+
 **Platform:** Dreamhack
 
 **Description:**
